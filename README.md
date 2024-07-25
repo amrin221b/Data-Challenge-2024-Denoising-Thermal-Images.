@@ -21,7 +21,3 @@ The challenge involves working with sequences of raw thermal images affected by 
 
 - To develop a reliable method for correcting raw thermal images to enhance their clarity and detail.
 - To evaluate different denoising algorithms and their effectiveness in improving the visibility of thermal images.
-
-## Contribute and Connect
-
-Feel free to explore the code and adapt it to your needs. Contributions to improve the code or methodologies are highly welcomed. Task-03 is still an open challenge as we couldn't find a better solution.
