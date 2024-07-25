@@ -2,7 +2,7 @@
 
 ## Repository Introduction
 
-This repository hosts the materials and outcomes of the "Denoising Thermal Images" project, which I did for my M1 curriculum and was presented by Lynred. The primary goal of this challenge was to uncover hidden details in thermal images by applying image correction algorithms. And also using advanced image processing techniques if needed to enhance the quality of thermal imaging data by reducing noise levels.
+This repository hosts the materials and outcomes of the "Denoising Thermal Images" project, which I did for my M1 curriculum and was presented by Lynred. I have attempt this challenge along with my other three group mates. The primary goal of this challenge was to uncover hidden details in thermal images by applying image correction algorithms. And also using advanced image processing techniques if needed to enhance the quality of thermal imaging data by reducing noise levels.
 
 ## Repository Contents
 - **Code**: This section contains all the scripts developed for preprocessing, denoising, and analyzing thermal images. These scripts showcase various approaches to handle raw image data, apply Non-Uniform Correction (NUC), and assess the effectiveness of these methods.
